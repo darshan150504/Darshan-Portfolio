@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Darshan-Portfolio/static/css/main.6342cd21.css",
+    "main.js": "/Darshan-Portfolio/static/js/main.d610a740.js",
+    "static/media/darshan-removebg-preview-fotor-bg-remover-2024030516205.png": "/Darshan-Portfolio/static/media/darshan-removebg-preview-fotor-bg-remover-2024030516205.e698a2764f4f0a1faf5e.png",
+    "index.html": "/Darshan-Portfolio/index.html",
+    "main.6342cd21.css.map": "/Darshan-Portfolio/static/css/main.6342cd21.css.map",
+    "main.d610a740.js.map": "/Darshan-Portfolio/static/js/main.d610a740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6342cd21.css",
+    "static/js/main.d610a740.js"
+  ]
+}
